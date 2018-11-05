@@ -469,7 +469,7 @@
             "value": "[parameters('deploymentId')]"
           },
           "location": {
-            "value": "[parameters('location')]"
+            "value": "uk south"
           },
 
           "sqlServerName": {
