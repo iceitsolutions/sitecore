@@ -333,7 +333,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "East US"
+      "defaultValue": "north europe"
     },
     "applicationInsightsPricePlan": {
       "type": "string",
