@@ -297,7 +297,7 @@
     },
     "searchServiceLocation": {
       "type": "string",
-      "defaultValue": "[parameters('location')]"
+      "defaultValue": "uk south"
     },
     "searchServiceSkuName": {
       "type": "string",
@@ -333,7 +333,7 @@
     },
     "applicationInsightsLocation": {
       "type": "string",
-      "defaultValue": "north europe"
+      "defaultValue": "north Europe"
     },
     "applicationInsightsPricePlan": {
       "type": "string",
