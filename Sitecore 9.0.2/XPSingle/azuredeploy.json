@@ -42,7 +42,7 @@
     "location": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "[resourceGroup().location]"
+      "defaultValue": "uk west"
     },
 
     "sitecoreAdminPassword": {
@@ -469,7 +469,7 @@
             "value": "[parameters('deploymentId')]"
           },
           "location": {
-            "value": "uk south"
+            "value": "uk west"
           },
 
           "sqlServerName": {
