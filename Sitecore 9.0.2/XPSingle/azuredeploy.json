@@ -297,7 +297,7 @@
     },
     "searchServiceLocation": {
       "type": "string",
-      "defaultValue": "uk south"
+      "defaultValue": "north europe"
     },
     "searchServiceSkuName": {
       "type": "string",
