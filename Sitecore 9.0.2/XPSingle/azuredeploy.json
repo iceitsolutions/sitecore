@@ -42,7 +42,7 @@
     "location": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "uk west"
+      "defaultValue": "north europe"
     },
 
     "sitecoreAdminPassword": {
