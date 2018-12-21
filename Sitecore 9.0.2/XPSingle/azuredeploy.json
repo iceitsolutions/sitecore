@@ -42,7 +42,7 @@
     "location": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "north europe"
+      "defaultValue": "uk south"
     },
 
     "sitecoreAdminPassword": {
@@ -297,7 +297,7 @@
     },
     "searchServiceLocation": {
       "type": "string",
-      "defaultValue": "north europe"
+      "defaultValue": "uk south"
     },
     "searchServiceSkuName": {
       "type": "string",
@@ -469,7 +469,7 @@
             "value": "[parameters('deploymentId')]"
           },
           "location": {
-            "value": "uk west"
+            "value": "uk south"
           },
 
           "sqlServerName": {
